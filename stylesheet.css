@@ -1,0 +1,52 @@
+#logo {
+    background-size: 272px 92px;
+    width: 272px;
+    height: 60px;
+    background-repeat: no-repeat;
+    font-size: 13px;
+    padding-top: 109px;
+    margin-top: 120px;
+    margin-left: 450px;
+   /* border:2px solid black;*/
+    background-image: url(https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png);
+}
+
+.logo-subtext {
+	/*border:2px solid green;*/
+	margin-left:200px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#search-id {
+	/*border:2px dashed black;*/
+	width:600px;
+	min-height:30px;
+	margin-left:300px;
+	font-size:15px;
+
+
+
+}
+
+#search-button {
+	border:none;
+	margin-left:450px;
+	height:2em;
+	font-size:15px;
+	margin-top:20px;
+    background-color: rgba(210, 210, 210, 0.51);
+    display:inline;
+	/*border:2px solid black;*/
+}
+
+#lucky-button {
+	border:none;
+	margin-left:10px;
+	height:2em;
+	font-size:15px;
+	margin-top:20px;
+    background-color: rgba(210, 210, 210, 0.51);
+    display:inline;
+
+}
